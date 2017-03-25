@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import createHistory from 'history/createBrowserHistory'
-import classNames from 'classNames'
+import classname from 'classname'
 
 import {
     ALL_TODOS,
